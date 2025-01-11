@@ -1,61 +1,38 @@
-import React from "react";
+import React, { useState } from "react";
 import emergency from "../responses/emergency.json";
 import plan from "../responses/plan.json";
-import Email from "../assets/email.png";
+import ContactCards from "./ContactCards";
 
 const Contact = () => {
+  const [activeTab, setActivetab] = useState("Emergency");
   return (
     <>
-      <div className="tab-containers">
-        <div>Emergency</div>
-        <div>Plan & Design</div>
+      <div className="flex gap-4 justify-center my-4">
+        <button
+          onClick={() => setActivetab("Emergency")}
+          className={`px-4 py-2 rounded ${
+            activeTab === "Emergency"
+              ? "bg-blue-500 text-white"
+              : "bg-gray-200 text-black"
+          }`}
+        >
+          Emergency
+        </button>
+        <button
+          onClick={() => setActivetab("Plan")}
+          className={`px-4 py-2 rounded ${
+            activeTab === "Plan"
+              ? "bg-blue-500 text-white"
+              : "bg-gray-200 text-black"
+          }`}
+        >
+          Plan & Design
+        </button>
       </div>
-      <div>
-        <h1>Emergency Contacts</h1>
-        <table>
-          <thead>
-            <tr>
-              <th>Contact Type</th>
-              <th>Code</th>
-              <th>Name</th>
-              <th>Phone</th>
-              <th>Contact</th>
-              <th>Email</th>
-              <th>Comments</th>
-              <th>Description</th>
-              <th>Contact Me</th>
-            </tr>
-          </thead>
-          <tbody>
-            {emergency.rows.map((item) => (
-              <tr key={item.phone}>
-                <td>{item.contact_type}</td>
-                <td>{item.code}</td>
-                <td>{item.name}</td>
-                <td>{item.phone}</td>
-                <td>{item.contact}</td>
-                <td>
-                  {item.email.replace(/@/g, "[at]").replace(/\./g, "[dot]")}
-                </td>
-                <td>{item.comments}</td>
-                <td>{item.description}</td>
-                <td>
-                  <div class="icons">
-                    <button class="mail" id="openModal">
-                      <img src="./src/email.png"></img>
-                    </button>
-                    <button class="phone">
-                      <img src="./src/phone.png"></img>
-                    </button>
-                  </div>
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
-
-      {/* Plan */}
+      {activeTab === "Emergency" && (
+        <ContactCards name="Emergency" value={emergency} />
+      )}
+      {activeTab === "Plan" && <ContactCards name="Plan" value={plan} />}
     </>
   );
 };
