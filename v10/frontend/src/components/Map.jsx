@@ -1,8 +1,7 @@
 import React, { useRef, useEffect } from "react";
-import { MapContainer, TileLayer, Polygon } from "react-leaflet";
-// import "leaflet/dist/leaflet.css";
+import { MapContainer, TileLayer, Polygon, useMap } from "react-leaflet";
 import domtoimage from "dom-to-image";
-import axios from "axios";
+import { useMapImage } from "../context/MapImageContext";
 
 const coordinates = [
   [-113.543159092464, 37.1084767228141],
@@ -36,35 +35,45 @@ const coordinates = [
 
 const Map = () => {
   const mapRef = useRef();
+  const { setImageData } = useMapImage();
 
   useEffect(() => {
-    const exportMap = () => {
+    const captureMapImage = () => {
       const mapElement = mapRef.current;
-      domtoimage
-        .toPng(mapElement)
-        .then((imageData) => {
 
-          axios
-            .post("https://localhost:3000/api/upload-map-image", {
-              image: imageData,
-            })
-            .then((response) => {
-              console.log("Image uploaded successfully:", response.data);
+      if (!mapElement) {
+        console.error("Map element not found.");
+        return;
+      }
+      const tileLoadCheck = setInterval(() => {
+        const tiles = mapElement.querySelectorAll(".leaflet-tile");
+        const loadingTiles = Array.from(tiles).some((tile) => !tile.complete);
+
+        if (!loadingTiles) {
+          clearInterval(tileLoadCheck);
+
+          // Capture the map once tiles are fully loaded
+          domtoimage
+            .toPng(mapElement)
+            .then((imageData) => {
+              setImageData(imageData); // Save image data to context
+              console.log("Map image captured and saved to context!");
             })
             .catch((error) => {
-              console.error("Error uploading image:", error);
+              console.error("Error capturing map as image:", error);
             });
-        })
-        .catch((error) => {
-          console.error("Error capturing map as image:", error);
-        });
+        }
+      }, 100);
     };
 
-    exportMap();
-  }, []);
+    captureMapImage();
+  }, [setImageData]);
 
   return (
-    <div className="w-3/4 h-[50vh] mx-auto mt-8 rounded-lg shadow-lg overflow-hidden border-4 border-black z-0">
+    <div
+      ref={mapRef}
+      className="w-full sm:w-4/5 lg:w-3/4 h-[40vh] sm:h-[50vh] md:h-[60vh] mx-auto mt-8 rounded-lg shadow-lg overflow-hidden border-4 border-black z-0"
+    >
       <MapContainer
         center={[37.1089, -113.542]}
         zoom={17}
