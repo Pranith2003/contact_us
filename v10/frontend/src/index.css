@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Force all Leaflet layers to have lower z-index */
+.leaflet-container,
+.leaflet-pane,
+.leaflet-map-pane,
+.leaflet-tile-pane,
+.leaflet-shadow-pane,
+.leaflet-overlay-pane,
+.leaflet-marker-pane,
+.leaflet-popup-pane {
+  z-index: 0 !important;
+}
+
+/* Ensure modal appears above all Leaflet elements */
+.modal {
+  z-index: 1000 !important;
+}
