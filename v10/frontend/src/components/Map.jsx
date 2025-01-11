@@ -65,33 +65,6 @@ const Map = () => {
 
   return (
     <div className="w-3/4 h-[50vh] mx-auto mt-8 rounded-lg shadow-lg overflow-hidden border-4 border-black z-0">
-
-      const mapElement = mapRef.current; // Access the map's DOM element
-      domtoimage
-        .toPng(mapElement)
-        .then((imageData) => {
-          // Send the Base64 image to the backend using Axios
-          axios
-            .post("https://localhost:3000/api/upload-map-image", {
-              image: imageData,
-            })
-            .then((response) => {
-              console.log("Image uploaded successfully:", response.data);
-            })
-            .catch((error) => {
-              console.error("Error uploading image:", error);
-            });
-        })
-        .catch((error) => {
-          console.error("Error capturing map as image:", error);
-        });
-    };
-
-    exportMap(); // Call the function to export the map
-  }, []); // Empty dependency array ensures this runs once on component mount
-
-  return (
-    <div className="w-3/4 h-[50vh] mx-auto mt-8 rounded-lg shadow-lg overflow-hidden border-4 border-black">
       <MapContainer
         center={[37.1089, -113.542]}
         zoom={17}
