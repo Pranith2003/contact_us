@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Force all Leaflet layers to have lower z-index */
 .leaflet-container,
 .leaflet-pane,
 .leaflet-map-pane,
@@ -18,3 +17,4 @@
 .modal {
   z-index: 1000 !important;
 }
+
