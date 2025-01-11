@@ -1,0 +1,1827 @@
+{
+    "records": "260",
+    "server": "newtina.bluestakes.org",
+    "timestamp": "Thu, 9 Jan 2025 11:53:52 UTC",
+    "rows": [
+        {
+            "id": "1",
+            "st": "49",
+            "co": "001",
+            "fips": "00020",
+            "place": "BEAVER"
+        },
+        {
+            "id": "3",
+            "st": "49",
+            "co": "001",
+            "fips": "00070",
+            "place": "MILFORD"
+        },
+        {
+            "id": "4",
+            "st": "49",
+            "co": "001",
+            "fips": "00080",
+            "place": "MINERSVILLE"
+        },
+        {
+            "id": "5",
+            "st": "49",
+            "co": "003",
+            "fips": "00110",
+            "place": "BEAR RIVER CITY"
+        },
+        {
+            "id": "7",
+            "st": "49",
+            "co": "003",
+            "fips": "00150",
+            "place": "BRIGHAM CITY"
+        },
+        {
+            "id": "8",
+            "st": "49",
+            "co": "003",
+            "fips": "00210",
+            "place": "CORINNE"
+        },
+        {
+            "id": "9",
+            "st": "49",
+            "co": "003",
+            "fips": "00220",
+            "place": "DEWEYVILLE"
+        },
+        {
+            "id": "10",
+            "st": "49",
+            "co": "003",
+            "fips": "00230",
+            "place": "ELWOOD"
+        },
+        {
+            "id": "11",
+            "st": "49",
+            "co": "003",
+            "fips": "00250",
+            "place": "FIELDING"
+        },
+        {
+            "id": "12",
+            "st": "49",
+            "co": "003",
+            "fips": "00260",
+            "place": "GARLAND"
+        },
+        {
+            "id": "13",
+            "st": "49",
+            "co": "003",
+            "fips": "00280",
+            "place": "HONEYVILLE"
+        },
+        {
+            "id": "14",
+            "st": "49",
+            "co": "003",
+            "fips": "00300",
+            "place": "HOWELL"
+        },
+        {
+            "id": "15",
+            "st": "49",
+            "co": "003",
+            "fips": "00340",
+            "place": "MANTUA"
+        },
+        {
+            "id": "16",
+            "st": "49",
+            "co": "003",
+            "fips": "00370",
+            "place": "PERRY"
+        },
+        {
+            "id": "17",
+            "st": "49",
+            "co": "003",
+            "fips": "00380",
+            "place": "PLYMOUTH"
+        },
+        {
+            "id": "18",
+            "st": "49",
+            "co": "003",
+            "fips": "00390",
+            "place": "PORTAGE"
+        },
+        {
+            "id": "19",
+            "st": "49",
+            "co": "003",
+            "fips": "00430",
+            "place": "SNOWVILLE"
+        },
+        {
+            "id": "20",
+            "st": "49",
+            "co": "003",
+            "fips": "00450",
+            "place": "TREMONTON"
+        },
+        {
+            "id": "21",
+            "st": "49",
+            "co": "003",
+            "fips": "00470",
+            "place": "WILLARD"
+        },
+        {
+            "id": "22",
+            "st": "49",
+            "co": "005",
+            "fips": "00490",
+            "place": "AMALGA"
+        },
+        {
+            "id": "24",
+            "st": "49",
+            "co": "005",
+            "fips": "00540",
+            "place": "CLARKSTON"
+        },
+        {
+            "id": "25",
+            "st": "49",
+            "co": "005",
+            "fips": "00560",
+            "place": "CORNISH"
+        },
+        {
+            "id": "26",
+            "st": "49",
+            "co": "005",
+            "fips": "00580",
+            "place": "HYDE PARK"
+        },
+        {
+            "id": "27",
+            "st": "49",
+            "co": "005",
+            "fips": "00590",
+            "place": "HYRUM"
+        },
+        {
+            "id": "28",
+            "st": "49",
+            "co": "005",
+            "fips": "00600",
+            "place": "LEWISTON"
+        },
+        {
+            "id": "29",
+            "st": "49",
+            "co": "005",
+            "fips": "00610",
+            "place": "LOGAN"
+        },
+        {
+            "id": "30",
+            "st": "49",
+            "co": "005",
+            "fips": "00620",
+            "place": "MENDON"
+        },
+        {
+            "id": "31",
+            "st": "49",
+            "co": "005",
+            "fips": "00630",
+            "place": "MILLVILLE"
+        },
+        {
+            "id": "32",
+            "st": "49",
+            "co": "005",
+            "fips": "00650",
+            "place": "NEWTON"
+        },
+        {
+            "id": "33",
+            "st": "49",
+            "co": "005",
+            "fips": "00660",
+            "place": "NIBLEY"
+        },
+        {
+            "id": "34",
+            "st": "49",
+            "co": "005",
+            "fips": "00640",
+            "place": "NORTH LOGAN"
+        },
+        {
+            "id": "35",
+            "st": "49",
+            "co": "005",
+            "fips": "00670",
+            "place": "PARADISE"
+        },
+        {
+            "id": "36",
+            "st": "49",
+            "co": "005",
+            "fips": "00680",
+            "place": "PROVIDENCE"
+        },
+        {
+            "id": "37",
+            "st": "49",
+            "co": "005",
+            "fips": "00690",
+            "place": "RICHMOND"
+        },
+        {
+            "id": "38",
+            "st": "49",
+            "co": "005",
+            "fips": "00700",
+            "place": "RIVER HEIGHTS"
+        },
+        {
+            "id": "39",
+            "st": "49",
+            "co": "005",
+            "fips": "00710",
+            "place": "SMITHFIELD"
+        },
+        {
+            "id": "40",
+            "st": "49",
+            "co": "005",
+            "fips": "00720",
+            "place": "TRENTON"
+        },
+        {
+            "id": "41",
+            "st": "49",
+            "co": "005",
+            "fips": "00730",
+            "place": "WELLSVILLE"
+        },
+        {
+            "id": "43",
+            "st": "49",
+            "co": "007",
+            "fips": "00810",
+            "place": "EAST CARBON"
+        },
+        {
+            "id": "44",
+            "st": "49",
+            "co": "007",
+            "fips": "00830",
+            "place": "HELPER"
+        },
+        {
+            "id": "45",
+            "st": "49",
+            "co": "007",
+            "fips": "00900",
+            "place": "PRICE"
+        },
+        {
+            "id": "46",
+            "st": "49",
+            "co": "007",
+            "fips": "00920",
+            "place": "SCOFIELD"
+        },
+        {
+            "id": "48",
+            "st": "49",
+            "co": "007",
+            "fips": "00960",
+            "place": "WELLINGTON"
+        },
+        {
+            "id": "281",
+            "st": "49",
+            "co": "009",
+            "fips": "05448",
+            "place": "DUTCH JOHN"
+        },
+        {
+            "id": "50",
+            "st": "49",
+            "co": "009",
+            "fips": "01000",
+            "place": "MANILA"
+        },
+        {
+            "id": "51",
+            "st": "49",
+            "co": "011",
+            "fips": "01150",
+            "place": "BOUNTIFUL"
+        },
+        {
+            "id": "52",
+            "st": "49",
+            "co": "011",
+            "fips": "01160",
+            "place": "CENTERVILLE"
+        },
+        {
+            "id": "53",
+            "st": "49",
+            "co": "011",
+            "fips": "01010",
+            "place": "CLEARFIELD"
+        },
+        {
+            "id": "54",
+            "st": "49",
+            "co": "011",
+            "fips": "01020",
+            "place": "CLINTON"
+        },
+        {
+            "id": "56",
+            "st": "49",
+            "co": "011",
+            "fips": "01050",
+            "place": "FARMINGTON"
+        },
+        {
+            "id": "57",
+            "st": "49",
+            "co": "011",
+            "fips": "01060",
+            "place": "FRUIT HEIGHTS"
+        },
+        {
+            "id": "58",
+            "st": "49",
+            "co": "011",
+            "fips": "01090",
+            "place": "KAYSVILLE"
+        },
+        {
+            "id": "59",
+            "st": "49",
+            "co": "011",
+            "fips": "01100",
+            "place": "LAYTON"
+        },
+        {
+            "id": "60",
+            "st": "49",
+            "co": "011",
+            "fips": "01180",
+            "place": "NORTH SALT LAKE"
+        },
+        {
+            "id": "61",
+            "st": "49",
+            "co": "011",
+            "fips": "01110",
+            "place": "SOUTH WEBER"
+        },
+        {
+            "id": "62",
+            "st": "49",
+            "co": "011",
+            "fips": "01120",
+            "place": "SUNSET"
+        },
+        {
+            "id": "63",
+            "st": "49",
+            "co": "011",
+            "fips": "01130",
+            "place": "SYRACUSE"
+        },
+        {
+            "id": "64",
+            "st": "49",
+            "co": "011",
+            "fips": "01200",
+            "place": "WEST BOUNTIFUL"
+        },
+        {
+            "id": "65",
+            "st": "49",
+            "co": "011",
+            "fips": "01140",
+            "place": "WEST POINT"
+        },
+        {
+            "id": "66",
+            "st": "49",
+            "co": "011",
+            "fips": "01210",
+            "place": "WOODS CROSS"
+        },
+        {
+            "id": "67",
+            "st": "49",
+            "co": "013",
+            "fips": "01220",
+            "place": "ALTAMONT"
+        },
+        {
+            "id": "68",
+            "st": "49",
+            "co": "013",
+            "fips": "01280",
+            "place": "DUCHESNE"
+        },
+        {
+            "id": "70",
+            "st": "49",
+            "co": "013",
+            "fips": "01340",
+            "place": "MYTON"
+        },
+        {
+            "id": "71",
+            "st": "49",
+            "co": "013",
+            "fips": "01360",
+            "place": "ROOSEVELT"
+        },
+        {
+            "id": "72",
+            "st": "49",
+            "co": "013",
+            "fips": "01370",
+            "place": "TABIONA"
+        },
+        {
+            "id": "73",
+            "st": "49",
+            "co": "015",
+            "fips": "01390",
+            "place": "CASTLE DALE"
+        },
+        {
+            "id": "74",
+            "st": "49",
+            "co": "015",
+            "fips": "01410",
+            "place": "CLAWSON"
+        },
+        {
+            "id": "75",
+            "st": "49",
+            "co": "015",
+            "fips": "01420",
+            "place": "CLEVELAND"
+        },
+        {
+            "id": "76",
+            "st": "49",
+            "co": "015",
+            "fips": "01430",
+            "place": "ELMO"
+        },
+        {
+            "id": "77",
+            "st": "49",
+            "co": "015",
+            "fips": "01440",
+            "place": "EMERY"
+        },
+        {
+            "id": "79",
+            "st": "49",
+            "co": "015",
+            "fips": "01460",
+            "place": "FERRON"
+        },
+        {
+            "id": "80",
+            "st": "49",
+            "co": "015",
+            "fips": "01470",
+            "place": "GREEN RIVER"
+        },
+        {
+            "id": "81",
+            "st": "49",
+            "co": "015",
+            "fips": "01480",
+            "place": "HUNTINGTON"
+        },
+        {
+            "id": "82",
+            "st": "49",
+            "co": "015",
+            "fips": "01510",
+            "place": "ORANGEVILLE"
+        },
+        {
+            "id": "83",
+            "st": "49",
+            "co": "017",
+            "fips": "01530",
+            "place": "ANTIMONY"
+        },
+        {
+            "id": "84",
+            "st": "49",
+            "co": "017",
+            "fips": "01540",
+            "place": "BOULDER"
+        },
+        {
+            "id": "275",
+            "st": "49",
+            "co": "017",
+            "fips": "05442",
+            "place": "BRYCE CANYON CITY"
+        },
+        {
+            "id": "85",
+            "st": "49",
+            "co": "017",
+            "fips": "01570",
+            "place": "CANNONVILLE"
+        },
+        {
+            "id": "86",
+            "st": "49",
+            "co": "017",
+            "fips": "01580",
+            "place": "ESCALANTE"
+        },
+        {
+            "id": "88",
+            "st": "49",
+            "co": "017",
+            "fips": "01600",
+            "place": "HATCH"
+        },
+        {
+            "id": "89",
+            "st": "49",
+            "co": "017",
+            "fips": "01610",
+            "place": "HENRIEVILLE"
+        },
+        {
+            "id": "90",
+            "st": "49",
+            "co": "017",
+            "fips": "01620",
+            "place": "PANGUITCH"
+        },
+        {
+            "id": "91",
+            "st": "49",
+            "co": "017",
+            "fips": "01650",
+            "place": "TROPIC"
+        },
+        {
+            "id": "92",
+            "st": "49",
+            "co": "019",
+            "fips": "01660",
+            "place": "CASTLE VALLEY"
+        },
+        {
+            "id": "94",
+            "st": "49",
+            "co": "019",
+            "fips": "01700",
+            "place": "MOAB"
+        },
+        {
+            "id": "95",
+            "st": "49",
+            "co": "021",
+            "fips": "01750",
+            "place": "BRIAN HEAD"
+        },
+        {
+            "id": "96",
+            "st": "49",
+            "co": "021",
+            "fips": "01760",
+            "place": "CEDAR CITY"
+        },
+        {
+            "id": "290",
+            "st": "49",
+            "co": "021",
+            "fips": "05457",
+            "place": "CEDAR HIGHLANDS"
+        },
+        {
+            "id": "97",
+            "st": "49",
+            "co": "021",
+            "fips": "01790",
+            "place": "ENOCH"
+        },
+        {
+            "id": "99",
+            "st": "49",
+            "co": "021",
+            "fips": "01830",
+            "place": "KANARRAVILLE"
+        },
+        {
+            "id": "100",
+            "st": "49",
+            "co": "021",
+            "fips": "01870",
+            "place": "PARAGONAH"
+        },
+        {
+            "id": "101",
+            "st": "49",
+            "co": "021",
+            "fips": "01880",
+            "place": "PAROWAN"
+        },
+        {
+            "id": "102",
+            "st": "49",
+            "co": "023",
+            "fips": "01900",
+            "place": "EUREKA"
+        },
+        {
+            "id": "104",
+            "st": "49",
+            "co": "023",
+            "fips": "01920",
+            "place": "LEVAN"
+        },
+        {
+            "id": "105",
+            "st": "49",
+            "co": "023",
+            "fips": "01940",
+            "place": "MONA"
+        },
+        {
+            "id": "106",
+            "st": "49",
+            "co": "023",
+            "fips": "01950",
+            "place": "NEPHI"
+        },
+        {
+            "id": "107",
+            "st": "49",
+            "co": "023",
+            "fips": "05430",
+            "place": "ROCKY RIDGE"
+        },
+        {
+            "id": "274",
+            "st": "49",
+            "co": "023",
+            "fips": "05439",
+            "place": "SANTAQUIN"
+        },
+        {
+            "id": "108",
+            "st": "49",
+            "co": "025",
+            "fips": "01970",
+            "place": "ALTON"
+        },
+        {
+            "id": "109",
+            "st": "49",
+            "co": "025",
+            "fips": "01980",
+            "place": "BIG WATER"
+        },
+        {
+            "id": "110",
+            "st": "49",
+            "co": "025",
+            "fips": "02000",
+            "place": "GLENDALE"
+        },
+        {
+            "id": "111",
+            "st": "49",
+            "co": "025",
+            "fips": "02010",
+            "place": "KANAB"
+        },
+        {
+            "id": "113",
+            "st": "49",
+            "co": "025",
+            "fips": "02050",
+            "place": "ORDERVILLE"
+        },
+        {
+            "id": "114",
+            "st": "49",
+            "co": "027",
+            "fips": "02100",
+            "place": "DELTA"
+        },
+        {
+            "id": "115",
+            "st": "49",
+            "co": "027",
+            "fips": "02120",
+            "place": "FILLMORE"
+        },
+        {
+            "id": "116",
+            "st": "49",
+            "co": "027",
+            "fips": "02170",
+            "place": "HINCKLEY"
+        },
+        {
+            "id": "117",
+            "st": "49",
+            "co": "027",
+            "fips": "02180",
+            "place": "HOLDEN"
+        },
+        {
+            "id": "118",
+            "st": "49",
+            "co": "027",
+            "fips": "02190",
+            "place": "KANOSH"
+        },
+        {
+            "id": "119",
+            "st": "49",
+            "co": "027",
+            "fips": "02200",
+            "place": "LEAMINGTON"
+        },
+        {
+            "id": "120",
+            "st": "49",
+            "co": "027",
+            "fips": "02210",
+            "place": "LYNNDYL"
+        },
+        {
+            "id": "121",
+            "st": "49",
+            "co": "027",
+            "fips": "02230",
+            "place": "MEADOW"
+        },
+        {
+            "id": "123",
+            "st": "49",
+            "co": "027",
+            "fips": "02250",
+            "place": "OAK CITY"
+        },
+        {
+            "id": "124",
+            "st": "49",
+            "co": "027",
+            "fips": "02270",
+            "place": "SCIPIO"
+        },
+        {
+            "id": "125",
+            "st": "49",
+            "co": "029",
+            "fips": "02330",
+            "place": "MORGAN"
+        },
+        {
+            "id": "127",
+            "st": "49",
+            "co": "031",
+            "fips": "02400",
+            "place": "CIRCLEVILLE"
+        },
+        {
+            "id": "128",
+            "st": "49",
+            "co": "031",
+            "fips": "02420",
+            "place": "JUNCTION"
+        },
+        {
+            "id": "129",
+            "st": "49",
+            "co": "031",
+            "fips": "02430",
+            "place": "KINGSTON"
+        },
+        {
+            "id": "130",
+            "st": "49",
+            "co": "031",
+            "fips": "02440",
+            "place": "MARYSVALE"
+        },
+        {
+            "id": "132",
+            "st": "49",
+            "co": "033",
+            "fips": "02460",
+            "place": "GARDEN CITY"
+        },
+        {
+            "id": "133",
+            "st": "49",
+            "co": "033",
+            "fips": "02470",
+            "place": "LAKETOWN"
+        },
+        {
+            "id": "134",
+            "st": "49",
+            "co": "033",
+            "fips": "02490",
+            "place": "RANDOLPH"
+        },
+        {
+            "id": "136",
+            "st": "49",
+            "co": "033",
+            "fips": "02510",
+            "place": "WOODRUFF"
+        },
+        {
+            "id": "137",
+            "st": "49",
+            "co": "035",
+            "fips": "03070",
+            "place": "ALTA"
+        },
+        {
+            "id": "138",
+            "st": "49",
+            "co": "035",
+            "fips": "03120",
+            "place": "BLUFFDALE"
+        },
+        {
+            "id": "292",
+            "st": "49",
+            "co": "035",
+            "fips": "05458",
+            "place": "BRIGHTON"
+        },
+        {
+            "id": "287",
+            "st": "49",
+            "co": "035",
+            "fips": "05454",
+            "place": "COPPERTON"
+        },
+        {
+            "id": "139",
+            "st": "49",
+            "co": "035",
+            "fips": "03170",
+            "place": "COTTONWOOD HEIGHTS"
+        },
+        {
+            "id": "140",
+            "st": "49",
+            "co": "035",
+            "fips": "03180",
+            "place": "DRAPER"
+        },
+        {
+            "id": "286",
+            "st": "49",
+            "co": "035",
+            "fips": "05453",
+            "place": "EMIGRATION CANYON"
+        },
+        {
+            "id": "141",
+            "st": "49",
+            "co": "035",
+            "fips": "03220",
+            "place": "HERRIMAN"
+        },
+        {
+            "id": "142",
+            "st": "49",
+            "co": "035",
+            "fips": "03230",
+            "place": "HOLLADAY"
+        },
+        {
+            "id": "284",
+            "st": "49",
+            "co": "035",
+            "fips": "05451",
+            "place": "KEARNS"
+        },
+        {
+            "id": "295",
+            "st": "49",
+            "co": "035",
+            "fips": "05461",
+            "place": "MAGNA"
+        },
+        {
+            "id": "143",
+            "st": "49",
+            "co": "035",
+            "fips": "03270",
+            "place": "MIDVALE"
+        },
+        {
+            "id": "283",
+            "st": "49",
+            "co": "035",
+            "fips": "05450",
+            "place": "MILLCREEK"
+        },
+        {
+            "id": "144",
+            "st": "49",
+            "co": "035",
+            "fips": "03290",
+            "place": "MURRAY"
+        },
+        {
+            "id": "145",
+            "st": "49",
+            "co": "035",
+            "fips": "03300",
+            "place": "RIVERTON"
+        },
+        {
+            "id": "146",
+            "st": "49",
+            "co": "035",
+            "fips": "03310",
+            "place": "SALT LAKE CITY"
+        },
+        {
+            "id": "148",
+            "st": "49",
+            "co": "035",
+            "fips": "03330",
+            "place": "SANDY"
+        },
+        {
+            "id": "149",
+            "st": "49",
+            "co": "035",
+            "fips": "03360",
+            "place": "SOUTH JORDAN"
+        },
+        {
+            "id": "150",
+            "st": "49",
+            "co": "035",
+            "fips": "03370",
+            "place": "SOUTH SALT LAKE"
+        },
+        {
+            "id": "151",
+            "st": "49",
+            "co": "035",
+            "fips": "03380",
+            "place": "TAYLORSVILLE"
+        },
+        {
+            "id": "152",
+            "st": "49",
+            "co": "035",
+            "fips": "03400",
+            "place": "WEST JORDAN"
+        },
+        {
+            "id": "153",
+            "st": "49",
+            "co": "035",
+            "fips": "03410",
+            "place": "WEST VALLEY CITY"
+        },
+        {
+            "id": "288",
+            "st": "49",
+            "co": "035",
+            "fips": "05455",
+            "place": "WHITE CITY"
+        },
+        {
+            "id": "154",
+            "st": "49",
+            "co": "037",
+            "fips": "02940",
+            "place": "BLANDING"
+        },
+        {
+            "id": "291",
+            "st": "49",
+            "co": "037",
+            "fips": "06700",
+            "place": "BLUFF"
+        },
+        {
+            "id": "155",
+            "st": "49",
+            "co": "037",
+            "fips": "03020",
+            "place": "MONTICELLO"
+        },
+        {
+            "id": "157",
+            "st": "49",
+            "co": "039",
+            "fips": "02530",
+            "place": "CENTERFIELD"
+        },
+        {
+            "id": "158",
+            "st": "49",
+            "co": "039",
+            "fips": "02560",
+            "place": "EPHRAIM"
+        },
+        {
+            "id": "159",
+            "st": "49",
+            "co": "039",
+            "fips": "02570",
+            "place": "FAIRVIEW"
+        },
+        {
+            "id": "160",
+            "st": "49",
+            "co": "039",
+            "fips": "02580",
+            "place": "FAYETTE"
+        },
+        {
+            "id": "161",
+            "st": "49",
+            "co": "039",
+            "fips": "02590",
+            "place": "FOUNTAIN GREEN"
+        },
+        {
+            "id": "162",
+            "st": "49",
+            "co": "039",
+            "fips": "02610",
+            "place": "GUNNISON"
+        },
+        {
+            "id": "163",
+            "st": "49",
+            "co": "039",
+            "fips": "02640",
+            "place": "MANTI"
+        },
+        {
+            "id": "164",
+            "st": "49",
+            "co": "039",
+            "fips": "02650",
+            "place": "MAYFIELD"
+        },
+        {
+            "id": "165",
+            "st": "49",
+            "co": "039",
+            "fips": "02670",
+            "place": "MORONI"
+        },
+        {
+            "id": "166",
+            "st": "49",
+            "co": "039",
+            "fips": "02680",
+            "place": "MOUNT PLEASANT"
+        },
+        {
+            "id": "168",
+            "st": "49",
+            "co": "039",
+            "fips": "02720",
+            "place": "SPRING CITY"
+        },
+        {
+            "id": "169",
+            "st": "49",
+            "co": "039",
+            "fips": "02730",
+            "place": "STERLING"
+        },
+        {
+            "id": "170",
+            "st": "49",
+            "co": "039",
+            "fips": "02740",
+            "place": "WALES"
+        },
+        {
+            "id": "171",
+            "st": "49",
+            "co": "041",
+            "fips": "02750",
+            "place": "ANNABELLA"
+        },
+        {
+            "id": "172",
+            "st": "49",
+            "co": "041",
+            "fips": "02760",
+            "place": "AURORA"
+        },
+        {
+            "id": "173",
+            "st": "49",
+            "co": "041",
+            "fips": "02790",
+            "place": "CENTRAL VALLEY"
+        },
+        {
+            "id": "174",
+            "st": "49",
+            "co": "041",
+            "fips": "02800",
+            "place": "ELSINORE"
+        },
+        {
+            "id": "175",
+            "st": "49",
+            "co": "041",
+            "fips": "02810",
+            "place": "GLENWOOD"
+        },
+        {
+            "id": "176",
+            "st": "49",
+            "co": "041",
+            "fips": "02820",
+            "place": "JOSEPH"
+        },
+        {
+            "id": "177",
+            "st": "49",
+            "co": "041",
+            "fips": "02830",
+            "place": "KOOSHAREM"
+        },
+        {
+            "id": "178",
+            "st": "49",
+            "co": "041",
+            "fips": "02840",
+            "place": "MONROE"
+        },
+        {
+            "id": "179",
+            "st": "49",
+            "co": "041",
+            "fips": "02850",
+            "place": "REDMOND"
+        },
+        {
+            "id": "180",
+            "st": "49",
+            "co": "041",
+            "fips": "02860",
+            "place": "RICHFIELD"
+        },
+        {
+            "id": "181",
+            "st": "49",
+            "co": "041",
+            "fips": "02870",
+            "place": "SALINA"
+        },
+        {
+            "id": "183",
+            "st": "49",
+            "co": "041",
+            "fips": "02900",
+            "place": "SIGURD"
+        },
+        {
+            "id": "184",
+            "st": "49",
+            "co": "043",
+            "fips": "03720",
+            "place": "COALVILLE"
+        },
+        {
+            "id": "185",
+            "st": "49",
+            "co": "043",
+            "fips": "03750",
+            "place": "FRANCIS"
+        },
+        {
+            "id": "186",
+            "st": "49",
+            "co": "043",
+            "fips": "03760",
+            "place": "HENEFER"
+        },
+        {
+            "id": "187",
+            "st": "49",
+            "co": "043",
+            "fips": "03790",
+            "place": "KAMAS"
+        },
+        {
+            "id": "188",
+            "st": "49",
+            "co": "043",
+            "fips": "03820",
+            "place": "OAKLEY"
+        },
+        {
+            "id": "189",
+            "st": "49",
+            "co": "043",
+            "fips": "03830",
+            "place": "PARK CITY"
+        },
+        {
+            "id": "293",
+            "st": "49",
+            "co": "045",
+            "fips": "05459",
+            "place": "ERDA"
+        },
+        {
+            "id": "191",
+            "st": "49",
+            "co": "045",
+            "fips": "03980",
+            "place": "GRANTSVILLE"
+        },
+        {
+            "id": "294",
+            "st": "49",
+            "co": "045",
+            "fips": "05460",
+            "place": "LAKE POINT"
+        },
+        {
+            "id": "193",
+            "st": "49",
+            "co": "045",
+            "fips": "04050",
+            "place": "RUSH VALLEY"
+        },
+        {
+            "id": "194",
+            "st": "49",
+            "co": "045",
+            "fips": "04070",
+            "place": "STOCKTON"
+        },
+        {
+            "id": "195",
+            "st": "49",
+            "co": "045",
+            "fips": "04080",
+            "place": "TOOELE"
+        },
+        {
+            "id": "197",
+            "st": "49",
+            "co": "045",
+            "fips": "04100",
+            "place": "VERNON"
+        },
+        {
+            "id": "198",
+            "st": "49",
+            "co": "045",
+            "fips": "04110",
+            "place": "WENDOVER"
+        },
+        {
+            "id": "199",
+            "st": "49",
+            "co": "047",
+            "fips": "04120",
+            "place": "BALLARD"
+        },
+        {
+            "id": "200",
+            "st": "49",
+            "co": "047",
+            "fips": "04190",
+            "place": "NAPLES"
+        },
+        {
+            "id": "202",
+            "st": "49",
+            "co": "047",
+            "fips": "04240",
+            "place": "VERNAL"
+        },
+        {
+            "id": "203",
+            "st": "49",
+            "co": "049",
+            "fips": "04260",
+            "place": "ALPINE"
+        },
+        {
+            "id": "204",
+            "st": "49",
+            "co": "049",
+            "fips": "04270",
+            "place": "AMERICAN FORK"
+        },
+        {
+            "id": "279",
+            "st": "49",
+            "co": "049",
+            "fips": "05446",
+            "place": "BLUFFDALE"
+        },
+        {
+            "id": "205",
+            "st": "49",
+            "co": "049",
+            "fips": "04300",
+            "place": "CEDAR FORT"
+        },
+        {
+            "id": "206",
+            "st": "49",
+            "co": "049",
+            "fips": "04310",
+            "place": "CEDAR HILLS"
+        },
+        {
+            "id": "271",
+            "st": "49",
+            "co": "049",
+            "fips": "05435",
+            "place": "DRAPER"
+        },
+        {
+            "id": "207",
+            "st": "49",
+            "co": "049",
+            "fips": "04330",
+            "place": "EAGLE MOUNTAIN"
+        },
+        {
+            "id": "208",
+            "st": "49",
+            "co": "049",
+            "fips": "04350",
+            "place": "ELK RIDGE"
+        },
+        {
+            "id": "209",
+            "st": "49",
+            "co": "049",
+            "fips": "04360",
+            "place": "FAIRFIELD"
+        },
+        {
+            "id": "210",
+            "st": "49",
+            "co": "049",
+            "fips": "04370",
+            "place": "GENOLA"
+        },
+        {
+            "id": "211",
+            "st": "49",
+            "co": "049",
+            "fips": "04380",
+            "place": "GOSHEN"
+        },
+        {
+            "id": "212",
+            "st": "49",
+            "co": "049",
+            "fips": "04390",
+            "place": "HIGHLAND"
+        },
+        {
+            "id": "213",
+            "st": "49",
+            "co": "049",
+            "fips": "04420",
+            "place": "LEHI"
+        },
+        {
+            "id": "214",
+            "st": "49",
+            "co": "049",
+            "fips": "04430",
+            "place": "LINDON"
+        },
+        {
+            "id": "215",
+            "st": "49",
+            "co": "049",
+            "fips": "04440",
+            "place": "MAPLETON"
+        },
+        {
+            "id": "216",
+            "st": "49",
+            "co": "049",
+            "fips": "04460",
+            "place": "OREM"
+        },
+        {
+            "id": "217",
+            "st": "49",
+            "co": "049",
+            "fips": "04480",
+            "place": "PAYSON"
+        },
+        {
+            "id": "218",
+            "st": "49",
+            "co": "049",
+            "fips": "04490",
+            "place": "PLEASANT GROVE"
+        },
+        {
+            "id": "219",
+            "st": "49",
+            "co": "049",
+            "fips": "04500",
+            "place": "PROVO"
+        },
+        {
+            "id": "220",
+            "st": "49",
+            "co": "049",
+            "fips": "04510",
+            "place": "SALEM"
+        },
+        {
+            "id": "221",
+            "st": "49",
+            "co": "049",
+            "fips": "04520",
+            "place": "SANTAQUIN"
+        },
+        {
+            "id": "222",
+            "st": "49",
+            "co": "049",
+            "fips": "05431",
+            "place": "SARATOGA SPRINGS"
+        },
+        {
+            "id": "223",
+            "st": "49",
+            "co": "049",
+            "fips": "04530",
+            "place": "SPANISH FORK"
+        },
+        {
+            "id": "224",
+            "st": "49",
+            "co": "049",
+            "fips": "04550",
+            "place": "SPRINGVILLE"
+        },
+        {
+            "id": "226",
+            "st": "49",
+            "co": "049",
+            "fips": "04590",
+            "place": "VINEYARD"
+        },
+        {
+            "id": "227",
+            "st": "49",
+            "co": "049",
+            "fips": "04610",
+            "place": "WOODLAND HILLS"
+        },
+        {
+            "id": "228",
+            "st": "49",
+            "co": "051",
+            "fips": "04630",
+            "place": "CHARLESTON"
+        },
+        {
+            "id": "273",
+            "st": "49",
+            "co": "051",
+            "fips": "05438",
+            "place": "DANIEL"
+        },
+        {
+            "id": "229",
+            "st": "49",
+            "co": "051",
+            "fips": "04650",
+            "place": "HEBER CITY"
+        },
+        {
+            "id": "277",
+            "st": "49",
+            "co": "051",
+            "fips": "05444",
+            "place": "HIDEOUT"
+        },
+        {
+            "id": "276",
+            "st": "49",
+            "co": "051",
+            "fips": "05443",
+            "place": "INDEPENDENCE"
+        },
+        {
+            "id": "280",
+            "st": "49",
+            "co": "051",
+            "fips": "05447",
+            "place": "INTERLAKEN"
+        },
+        {
+            "id": "230",
+            "st": "49",
+            "co": "051",
+            "fips": "04670",
+            "place": "MIDWAY"
+        },
+        {
+            "id": "231",
+            "st": "49",
+            "co": "051",
+            "fips": "04680",
+            "place": "PARK CITY"
+        },
+        {
+            "id": "232",
+            "st": "49",
+            "co": "051",
+            "fips": "04700",
+            "place": "WALLSBURG"
+        },
+        {
+            "id": "272",
+            "st": "49",
+            "co": "053",
+            "fips": "05437",
+            "place": "APPLE VALLEY"
+        },
+        {
+            "id": "234",
+            "st": "49",
+            "co": "053",
+            "fips": "04800",
+            "place": "ENTERPRISE"
+        },
+        {
+            "id": "235",
+            "st": "49",
+            "co": "053",
+            "fips": "04830",
+            "place": "HILDALE"
+        },
+        {
+            "id": "236",
+            "st": "49",
+            "co": "053",
+            "fips": "04840",
+            "place": "HURRICANE"
+        },
+        {
+            "id": "237",
+            "st": "49",
+            "co": "053",
+            "fips": "04850",
+            "place": "IVINS"
+        },
+        {
+            "id": "238",
+            "st": "49",
+            "co": "053",
+            "fips": "04870",
+            "place": "LA VERKIN"
+        },
+        {
+            "id": "239",
+            "st": "49",
+            "co": "053",
+            "fips": "04880",
+            "place": "LEEDS"
+        },
+        {
+            "id": "240",
+            "st": "49",
+            "co": "053",
+            "fips": "04900",
+            "place": "NEW HARMONY"
+        },
+        {
+            "id": "241",
+            "st": "49",
+            "co": "053",
+            "fips": "04930",
+            "place": "ROCKVILLE"
+        },
+        {
+            "id": "242",
+            "st": "49",
+            "co": "053",
+            "fips": "04940",
+            "place": "SANTA CLARA"
+        },
+        {
+            "id": "243",
+            "st": "49",
+            "co": "053",
+            "fips": "04970",
+            "place": "SPRINGDALE"
+        },
+        {
+            "id": "244",
+            "st": "49",
+            "co": "053",
+            "fips": "04980",
+            "place": "ST GEORGE"
+        },
+        {
+            "id": "245",
+            "st": "49",
+            "co": "053",
+            "fips": "04990",
+            "place": "TOQUERVILLE"
+        },
+        {
+            "id": "246",
+            "st": "49",
+            "co": "053",
+            "fips": "05010",
+            "place": "VIRGIN"
+        },
+        {
+            "id": "247",
+            "st": "49",
+            "co": "053",
+            "fips": "05020",
+            "place": "WASHINGTON"
+        },
+        {
+            "id": "249",
+            "st": "49",
+            "co": "055",
+            "fips": "05060",
+            "place": "BICKNELL"
+        },
+        {
+            "id": "250",
+            "st": "49",
+            "co": "055",
+            "fips": "05100",
+            "place": "HANKSVILLE"
+        },
+        {
+            "id": "251",
+            "st": "49",
+            "co": "055",
+            "fips": "05110",
+            "place": "LOA"
+        },
+        {
+            "id": "252",
+            "st": "49",
+            "co": "055",
+            "fips": "05120",
+            "place": "LYMAN"
+        },
+        {
+            "id": "253",
+            "st": "49",
+            "co": "055",
+            "fips": "05140",
+            "place": "TORREY"
+        },
+        {
+            "id": "255",
+            "st": "49",
+            "co": "057",
+            "fips": "05170",
+            "place": "FARR WEST"
+        },
+        {
+            "id": "256",
+            "st": "49",
+            "co": "057",
+            "fips": "05180",
+            "place": "HARRISVILLE"
+        },
+        {
+            "id": "257",
+            "st": "49",
+            "co": "057",
+            "fips": "05190",
+            "place": "HOOPER"
+        },
+        {
+            "id": "258",
+            "st": "49",
+            "co": "057",
+            "fips": "05200",
+            "place": "HUNTSVILLE"
+        },
+        {
+            "id": "259",
+            "st": "49",
+            "co": "057",
+            "fips": "05230",
+            "place": "MARRIOTT-SLATERVILLE"
+        },
+        {
+            "id": "260",
+            "st": "49",
+            "co": "057",
+            "fips": "05240",
+            "place": "NORTH OGDEN"
+        },
+        {
+            "id": "261",
+            "st": "49",
+            "co": "057",
+            "fips": "05250",
+            "place": "OGDEN"
+        },
+        {
+            "id": "262",
+            "st": "49",
+            "co": "057",
+            "fips": "05260",
+            "place": "PLAIN CITY"
+        },
+        {
+            "id": "263",
+            "st": "49",
+            "co": "057",
+            "fips": "05270",
+            "place": "PLEASANT VIEW"
+        },
+        {
+            "id": "264",
+            "st": "49",
+            "co": "057",
+            "fips": "05280",
+            "place": "RIVERDALE"
+        },
+        {
+            "id": "265",
+            "st": "49",
+            "co": "057",
+            "fips": "05290",
+            "place": "ROY"
+        },
+        {
+            "id": "266",
+            "st": "49",
+            "co": "057",
+            "fips": "05300",
+            "place": "SOUTH OGDEN"
+        },
+        {
+            "id": "267",
+            "st": "49",
+            "co": "057",
+            "fips": "05330",
+            "place": "UINTAH"
+        },
+        {
+            "id": "268",
+            "st": "49",
+            "co": "057",
+            "fips": "05380",
+            "place": "INGTON TERRACE"
+        },
+        {
+            "id": "270",
+            "st": "49",
+            "co": "057",
+            "fips": "05400",
+            "place": "WEST HAVEN"
+        }
+    ]
+}

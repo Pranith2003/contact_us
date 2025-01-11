@@ -1,0 +1,79 @@
+{
+    "records": "6",
+    "server": "newtina.bluestakes.org",
+    "timestamp": "Thu, 9 Jan 2025 08:13:09 UTC",
+    "rows": [
+        {
+            "contact_type": "EMER",
+            "code": "CTLUT01",
+            "name": "LUMEN/CENTURYLINK",
+            "phone": "8007789140",
+            "phone_ext": "",
+            "cell": "",
+            "contact": "USIC CUSTOMER SERVICE",
+            "email": "",
+            "comments": "",
+            "description": "FBR/PHN MARKED BY USIC"
+        },
+        {
+            "contact_type": "EMER",
+            "code": "QGCOCL",
+            "name": "ENBRIDGE GAS UTAH",
+            "phone": "8013243963",
+            "phone_ext": "",
+            "cell": "",
+            "contact": "DISPATCH OFFICE",
+            "email": "",
+            "comments": "CALL ENBRIDGE GAS UTAH FOR EMERGENCIES IN BIRDSEYE - UTAH COUNTY, GARFIELD, PIUTE, SANPETE AND SEVIER COUNTIES",
+            "description": "GAS MARKED BY ELM LOCATING"
+        },
+        {
+            "contact_type": "EMER",
+            "code": "QGCOCL",
+            "name": "ENBRIDGE GAS UTAH",
+            "phone": "8887289343",
+            "phone_ext": "",
+            "cell": "",
+            "contact": "ELM LOCATING",
+            "email": "",
+            "comments": "",
+            "description": "GAS MARKED BY ELM LOCATING"
+        },
+        {
+            "contact_type": "EMER",
+            "code": "SGCP",
+            "name": "ST GEORGE CITY POWER",
+            "phone": "4356274835",
+            "phone_ext": "",
+            "cell": "",
+            "contact": "CONTROL ROOM OPERATOR",
+            "email": "",
+            "comments": "",
+            "description": "ELECTRIC"
+        },
+        {
+            "contact_type": "EMER",
+            "code": "SGCSW",
+            "name": "ST GEORGE CITY SEWER & WATER",
+            "phone": "4356274835",
+            "phone_ext": "",
+            "cell": "",
+            "contact": "DISPATCH",
+            "email": "",
+            "comments": "",
+            "description": "IRRIGATION, SWR & CULINARY WTR"
+        },
+        {
+            "contact_type": "EMER",
+            "code": "TDSB",
+            "name": "TDS TELECOM LLC",
+            "phone": "4353194618",
+            "phone_ext": "",
+            "cell": "",
+            "contact": "TDS ON CALL TECH",
+            "email": "",
+            "comments": "",
+            "description": "CATV MARKED BY USIC"
+        }
+    ]
+}

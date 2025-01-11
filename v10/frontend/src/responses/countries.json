@@ -1,0 +1,239 @@
+{
+    "records": "29",
+    "server": "newtina.bluestakes.org",
+    "timestamp": "Thu, 9 Jan 2025 11:54:19 UTC",
+    "rows": [
+        {
+            "id": "1",
+            "st": "49",
+            "co": "001",
+            "map": "BEAV",
+            "county": "BEAVER",
+            "map_name": "BEAVER"
+        },
+        {
+            "id": "2",
+            "st": "49",
+            "co": "003",
+            "map": "BOX",
+            "county": "BOX ELDER",
+            "map_name": "BOX ELDER"
+        },
+        {
+            "id": "3",
+            "st": "49",
+            "co": "005",
+            "map": "CACH",
+            "county": "CACHE",
+            "map_name": "CACHE"
+        },
+        {
+            "id": "4",
+            "st": "49",
+            "co": "007",
+            "map": "CARB",
+            "county": "CARBON",
+            "map_name": "CARBON"
+        },
+        {
+            "id": "5",
+            "st": "49",
+            "co": "009",
+            "map": "DAGG",
+            "county": "DAGGETT",
+            "map_name": "DAGGETT"
+        },
+        {
+            "id": "6",
+            "st": "49",
+            "co": "011",
+            "map": "DN",
+            "county": "DAVIS",
+            "map_name": "DAVIS"
+        },
+        {
+            "id": "7",
+            "st": "49",
+            "co": "013",
+            "map": "DUCH",
+            "county": "DUCHESNE",
+            "map_name": "DUCHESNE"
+        },
+        {
+            "id": "8",
+            "st": "49",
+            "co": "015",
+            "map": "EMER",
+            "county": "EMERY",
+            "map_name": "EMERY"
+        },
+        {
+            "id": "9",
+            "st": "49",
+            "co": "017",
+            "map": "GARF",
+            "county": "GARFIELD",
+            "map_name": "GARFIELD"
+        },
+        {
+            "id": "10",
+            "st": "49",
+            "co": "019",
+            "map": "GRAN",
+            "county": "GRAND",
+            "map_name": "GRAND"
+        },
+        {
+            "id": "11",
+            "st": "49",
+            "co": "021",
+            "map": "IRON",
+            "county": "IRON",
+            "map_name": "IRON"
+        },
+        {
+            "id": "12",
+            "st": "49",
+            "co": "023",
+            "map": "JUAB",
+            "county": "JUAB",
+            "map_name": "JUAB"
+        },
+        {
+            "id": "13",
+            "st": "49",
+            "co": "025",
+            "map": "KANE",
+            "county": "KANE",
+            "map_name": "KANE"
+        },
+        {
+            "id": "14",
+            "st": "49",
+            "co": "027",
+            "map": "MILL",
+            "county": "MILLARD",
+            "map_name": "MILLARD"
+        },
+        {
+            "id": "15",
+            "st": "49",
+            "co": "029",
+            "map": "MORG",
+            "county": "MORGAN",
+            "map_name": "MORGAN"
+        },
+        {
+            "id": "16",
+            "st": "49",
+            "co": "031",
+            "map": "PIUT",
+            "county": "PIUTE",
+            "map_name": "PIUTE"
+        },
+        {
+            "id": "17",
+            "st": "49",
+            "co": "033",
+            "map": "RICH",
+            "county": "RICH",
+            "map_name": "RICH"
+        },
+        {
+            "id": "18",
+            "st": "49",
+            "co": "035",
+            "map": "SL",
+            "county": "SALT LAKE",
+            "map_name": "SALT LAKE"
+        },
+        {
+            "id": "19",
+            "st": "49",
+            "co": "037",
+            "map": "SJUA",
+            "county": "SAN JUAN",
+            "map_name": "SAN JUAN"
+        },
+        {
+            "id": "20",
+            "st": "49",
+            "co": "039",
+            "map": "SANP",
+            "county": "SANPETE",
+            "map_name": "SANPETE"
+        },
+        {
+            "id": "21",
+            "st": "49",
+            "co": "041",
+            "map": "SEVE",
+            "county": "SEVIER",
+            "map_name": "SEVIER"
+        },
+        {
+            "id": "22",
+            "st": "49",
+            "co": "043",
+            "map": "SUMM",
+            "county": "SUMMIT",
+            "map_name": "SUMMIT"
+        },
+        {
+            "id": "23",
+            "st": "49",
+            "co": "045",
+            "map": "TOOE",
+            "county": "TOOELE",
+            "map_name": "TOOELE"
+        },
+        {
+            "id": "24",
+            "st": "49",
+            "co": "047",
+            "map": "UINT",
+            "county": "UINTAH",
+            "map_name": "UINTAH"
+        },
+        {
+            "id": "25",
+            "st": "49",
+            "co": "049",
+            "map": "UTAH",
+            "county": "UTAH",
+            "map_name": "UTAH"
+        },
+        {
+            "id": "26",
+            "st": "49",
+            "co": "051",
+            "map": "WASA",
+            "county": "WASATCH",
+            "map_name": "WASATCH"
+        },
+        {
+            "id": "27",
+            "st": "49",
+            "co": "053",
+            "map": "WASH",
+            "county": "WASHINGTON",
+            "map_name": "WASHINGTON"
+        },
+        {
+            "id": "28",
+            "st": "49",
+            "co": "055",
+            "map": "WAYN",
+            "county": "WAYNE",
+            "map_name": "WAYNE"
+        },
+        {
+            "id": "29",
+            "st": "49",
+            "co": "057",
+            "map": "WEBE",
+            "county": "WEBER",
+            "map_name": "WEBER"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "records": "5",
+    "server": "newtina.bluestakes.org",
+    "timestamp": "Thu, 9 Jan 2025 06:36:48 UTC",
+    "rows": [
+        {
+            "contact_type": "ENGR",
+            "code": "CTLUT01",
+            "name": "LUMEN/CENTURYLINK",
+            "phone": "3854797345",
+            "phone_ext": "",
+            "cell": "",
+            "contact": "JAMES CHIDESTER",
+            "email": "JAMES.CHIDESTER@LUMEN.COM",
+            "comments": "",
+            "description": "FBR/PHN MARKED BY USIC"
+        },
+        {
+            "contact_type": "ENGR",
+            "code": "QGCOCL",
+            "name": "ENBRIDGE GAS UTAH",
+            "phone": "8013243970",
+            "phone_ext": "",
+            "cell": "",
+            "contact": "SL MAPPING DEPARTMENT",
+            "email": "MAP.REQUESTS@DOMINIONENERGY.COM",
+            "comments": "FOR PRINTED & ELECTRONIC MAPS",
+            "description": "GAS MARKED BY ELM LOCATING"
+        },
+        {
+            "contact_type": "ENGR",
+            "code": "SGCP",
+            "name": "ST GEORGE CITY POWER",
+            "phone": "4356274896",
+            "phone_ext": "",
+            "cell": "",
+            "contact": "BARBARA BERRETT",
+            "email": "pranithtettabavi@gmail.com",
+            "comments": "OR WESTON NELSON @ 435-627-4818 WESTON.NELSON@SGCITY.ORG",
+            "description": "ELECTRIC"
+        },
+        {
+            "contact_type": "ENGR",
+            "code": "SGCSW",
+            "name": "ST GEORGE CITY SEWER & WATER",
+            "phone": "4356274854",
+            "phone_ext": "",
+            "cell": "",
+            "contact": "KADE BRINGHURST",
+            "email": "pranithtettabavi03@gmail.com",
+            "comments": "",
+            "description": "IRRIGATION, SWR & CULINARY WTR"
+        },
+        {
+            "contact_type": "ENGR",
+            "code": "TDSB",
+            "name": "TDS TELECOM LLC",
+            "phone": "6086640148",
+            "phone_ext": "",
+            "cell": "",
+            "contact": "BRIAN RESCH",
+            "email": "BRIAN.RESCH@TDSTELECOM.COM",
+            "comments": "",
+            "description": "CATV MARKED BY USIC"
+        }
+    ]
+}
