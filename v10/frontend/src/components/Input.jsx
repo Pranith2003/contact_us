@@ -15,6 +15,7 @@ const Input = () => {
     setSelectedPlace(e.target.value);
   };
 
+
   const filteredPlaces = places.rows.filter((place) => place.co === selectedCountry);
 
   return (
@@ -121,6 +122,7 @@ const Input = () => {
           Find Street
         </button>
       </form>
+
     </>
   );
 };

@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 .leaflet-container,
 .leaflet-pane,
 .leaflet-map-pane,
@@ -14,5 +15,6 @@
 
 /* Ensure modal appears above all Leaflet elements */
 .modal {
-  z-index: 1000 !important;
+  z-index: 1000 !important;
 }
+

@@ -1,6 +1,6 @@
 import React, { useRef, useEffect } from "react";
 import { MapContainer, TileLayer, Polygon } from "react-leaflet";
-import "leaflet/dist/leaflet.css";
+// import "leaflet/dist/leaflet.css";
 import domtoimage from "dom-to-image";
 import axios from "axios";
 
@@ -39,6 +39,33 @@ const Map = () => {
 
   useEffect(() => {
     const exportMap = () => {
+      const mapElement = mapRef.current;
+      domtoimage
+        .toPng(mapElement)
+        .then((imageData) => {
+
+          axios
+            .post("https://localhost:3000/api/upload-map-image", {
+              image: imageData,
+            })
+            .then((response) => {
+              console.log("Image uploaded successfully:", response.data);
+            })
+            .catch((error) => {
+              console.error("Error uploading image:", error);
+            });
+        })
+        .catch((error) => {
+          console.error("Error capturing map as image:", error);
+        });
+    };
+
+    exportMap();
+  }, []);
+
+  return (
+    <div className="w-3/4 h-[50vh] mx-auto mt-8 rounded-lg shadow-lg overflow-hidden border-4 border-black z-0">
+
       const mapElement = mapRef.current; // Access the map's DOM element
       domtoimage
         .toPng(mapElement)
