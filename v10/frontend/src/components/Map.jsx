@@ -52,11 +52,10 @@ const Map = () => {
         if (!loadingTiles) {
           clearInterval(tileLoadCheck);
 
-          // Capture the map once tiles are fully loaded
           domtoimage
             .toPng(mapElement)
             .then((imageData) => {
-              setImageData(imageData); // Save image data to context
+              setImageData(imageData);
               console.log("Map image captured and saved to context!");
             })
             .catch((error) => {
@@ -72,7 +71,7 @@ const Map = () => {
   return (
     <div
       ref={mapRef}
-      className="w-full sm:w-4/5 lg:w-3/4 h-[40vh] sm:h-[50vh] md:h-[60vh] mx-auto mt-8 rounded-lg shadow-lg overflow-hidden border-4 border-black z-0"
+      className="w-full h-[40vh] sm:h-[50vh] md:h-[60vh] lg:h-[70vh] rounded-lg shadow-lg overflow-hidden z-0"
     >
       <MapContainer
         center={[37.1089, -113.542]}
