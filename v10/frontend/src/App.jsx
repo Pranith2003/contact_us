@@ -7,16 +7,14 @@ import { MapImageProvider } from "./context/MapImageContext";
 function App() {
   return (
     <MapImageProvider>
-      <div className="flex flex-col min-h-screen">
-        <div className="flex flex-1">
-          <div className="w-1/2 p-4 mt-8">
-            <Input />
-          </div>
-          <div className="w-1/2 p-4">
-            <Map />
-          </div>
+      <div className="min-h-screen flex flex-col lg:grid lg:grid-rows-2 lg:grid-cols-2 lg:gap-0">
+        <div className="p-4 flex-1">
+          <Input />
         </div>
-        <div className="p-4 ">
+        <div className="p-4 flex-1">
+          <Map />
+        </div>
+        <div className="p-4 col-span-2 lg:flex-none flex-1">
           <Contact />
         </div>
       </div>
