@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
 import { useMapImage } from "../../context/MapImageContext";
-import PhoneModal from "./PhoneModal";
 
 const EmailModal = ({ isOpen, onClose, selectedRow }) => {
   const [message, setMessage] = useState("");
@@ -54,6 +53,15 @@ const EmailModal = ({ isOpen, onClose, selectedRow }) => {
       setIsLoading(false);
     }
   };
+  const formatPhoneNumber = (phone) => {
+    if (!phone) return "---";
+    const cleaned = ("" + phone).replace(/\D/g, ""); 
+    const match = cleaned.match(/^(\d{3})(\d{3})(\d{4})$/);
+    if (match) {
+      return `${match[1]}.${match[2]}.${match[3]}`; 
+    }
+    return phone; 
+  };
 
   if (!isOpen) return null;
 
@@ -104,7 +112,7 @@ const EmailModal = ({ isOpen, onClose, selectedRow }) => {
             </div>
             <div className="flex justify-between mb-2">
               <span className="text-gray-500">Phone:</span>
-              <span className="font-medium">{selectedRow.phone || "---"}</span>
+              <span className="font-medium">{formatPhoneNumber(selectedRow.phone || "---")}</span>
             </div>
             {selectedRow.phone_ext && (
               <div className="flex justify-between mb-2">
