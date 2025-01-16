@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import axios from "axios";
 
 const PhoneModal = ({ isOpen, onClose, selectedRow }) => {
-  const [message, setMessage] = useState(""); // State for textarea input
-  const [isLoading, setIsLoading] = useState(false); // State for loading
+  const [message, setMessage] = useState(""); 
+  const [isLoading, setIsLoading] = useState(false); 
 
   const handleSendData = async () => {
     try {
@@ -22,7 +22,6 @@ const PhoneModal = ({ isOpen, onClose, selectedRow }) => {
 
       console.log("Sending data:", dataToSend);
 
-      // Replace with your API endpoint
       const response = await axios.post(
         "http://localhost:3000/send-phone-message",
         dataToSend
@@ -30,10 +29,9 @@ const PhoneModal = ({ isOpen, onClose, selectedRow }) => {
 
       console.log("Data sent successfully:", response.data);
 
-      // Success feedback
       alert(`Message sent successfully to: ${selectedRow.phone}`);
-      setMessage(""); // Clear message input
-      onClose(); // Close the modal
+      setMessage(""); 
+      onClose(); 
     } catch (error) {
       console.error("Error sending message:", error);
       alert("Failed to send the message. Please try again.");
@@ -43,12 +41,12 @@ const PhoneModal = ({ isOpen, onClose, selectedRow }) => {
   };
   const formatPhoneNumber = (phone) => {
     if (!phone) return "---";
-    const cleaned = ("" + phone).replace(/\D/g, ""); // Remove non-numeric characters
+    const cleaned = ("" + phone).replace(/\D/g, ""); 
     const match = cleaned.match(/^(\d{3})(\d{3})(\d{4})$/);
     if (match) {
-      return `${match[1]}.${match[2]}.${match[3]}`; // Format as 123.456.7890
+      return `${match[1]}.${match[2]}.${match[3]}`; 
     }
-    return phone; // Return the original input if it doesn't match the expected pattern
+    return phone; 
   };
 
   if (!isOpen) return null;

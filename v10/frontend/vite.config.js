@@ -7,4 +7,7 @@ export default defineConfig({
   css: {
     postcss: "./postcss.config.js",
   },
+  define: {
+    "process.env": {},
+  },
 });
